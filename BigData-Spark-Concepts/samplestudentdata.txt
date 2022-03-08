@@ -1,0 +1,5 @@
+srini 500
+nik 300
+manish 200
+dilip 300
+devesh 600
